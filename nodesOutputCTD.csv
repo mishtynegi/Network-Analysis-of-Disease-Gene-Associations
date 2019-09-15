@@ -1,0 +1,301 @@
+Id,Label,Name,Type,Weight
+1646,C0023893,"Liver Cirrhosis, Experimental","Digestive System Diseases",770
+7511,C0376358,"Malignant neoplasm of prostate",Neoplasms,600
+355,C0006142,"Malignant neoplasm of breast",Neoplasms,474
+9157,C0678222,"Breast Carcinoma",Neoplasms,474
+1243,C0019193,"Hepatitis, Toxic","Digestive System Diseases",315
+10472,C0860207,"Drug-Induced Liver Disease","Digestive System Diseases",315
+10988,C1262760,"Hepatitis, Drug-Induced","Digestive System Diseases",315
+19717,C3658290,"Drug-Induced Acute Liver Injury","Digestive System Diseases",315
+23336,C4277682,"Chemical and Drug Induced Liver Injury","Digestive System Diseases",315
+23338,C4279912,"Chemically-Induced Liver Toxicity","Digestive System Diseases",315
+1722,C0024623,"Malignant neoplasm of stomach",Neoplasms,286
+12446,C1708349,"Hereditary Diffuse Gastric Cancer",Neoplasms,286
+4929,C0242379,"Malignant neoplasm of lung",Neoplasms,258
+569,C0009402,"Colorectal Carcinoma",Neoplasms,248
+12159,C1527249,"Colorectal Cancer",Neoplasms,248
+16840,C2239176,"Liver carcinoma",Neoplasms,238
+1761,C0025202,melanoma,Neoplasms,207
+715,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent","Nutritional and Metabolic Diseases",195
+1998,C0028754,Obesity,"Pathological Conditions, Signs and Symptoms",176
+226,C0003873,"Rheumatoid Arthritis","Skin and Connective Tissue Diseases",174
+3349,C0151744,"Myocardial Ischemia","Cardiovascular Diseases",171
+2494,C0036341,Schizophrenia,"Mental Disorders",169
+3928,C0205696,"Anaplastic carcinoma",Neoplasms,164
+3929,C0205697,"Carcinoma, Spindle-Cell",Neoplasms,164
+857,C0014175,Endometriosis,"Female Urogenital Diseases and Pregnancy Complications",155
+5822,C0269102,Endometrioma,"Female Urogenital Diseases and Pregnancy Complications",155
+3394,C0152013,"Adenocarcinoma of lung (disorder)",Neoplasms,145
+2262,C0032460,"Polycystic Ovary Syndrome",Neoplasms,144
+10859,C1136382,"Sclerocystic Ovaries",Neoplasms,144
+401,C0007102,"Malignant tumor of colon",Neoplasms,143
+10935,C1257925,"Mammary Carcinoma, Animal",Neoplasms,143
+1405,C0020796,"Profound Mental Retardation","Pathological Conditions, Signs and Symptoms",137
+1795,C0025363,"Mental Retardation, Psychosocial","Pathological Conditions, Signs and Symptoms",137
+10626,C0917816,"Mental deficiency","Pathological Conditions, Signs and Symptoms",137
+7292,C0345904,"Malignant neoplasm of liver",Neoplasms,136
+3203,C0087031,"Juvenile-Onset Still Disease","Skin and Connective Tissue Diseases",130
+19270,C3495559,"Juvenile arthritis","Skin and Connective Tissue Diseases",130
+19872,C3714758,"Juvenile psoriatic arthritis","Skin and Connective Tissue Diseases",130
+419,C0007134,"Renal Cell Carcinoma",Neoplasms,124
+6358,C0279702,"Conventional (Clear Cell) Renal Cell Carcinoma",Neoplasms,124
+11035,C1266042,"Chromophobe Renal Cell Carcinoma",Neoplasms,124
+11036,C1266043,"Sarcomatoid Renal Cell Carcinoma",Neoplasms,124
+11037,C1266044,"Collecting Duct Carcinoma of the Kidney",Neoplasms,124
+11414,C1306837,"Papillary Renal Cell Carcinoma",Neoplasms,124
+305,C0005684,"Malignant neoplasm of urinary bladder",Neoplasms,115
+417,C0007131,"Non-Small Cell Lung Carcinoma",Neoplasms,115
+758,C0013146,"Drug abuse","Mental Disorders",115
+2042,C0029231,"Organic Mental Disorders, Substance-Induced","Mental Disorders",115
+2668,C0038580,"Substance Dependence","Mental Disorders",115
+9388,C0740858,"Substance abuse problem","Mental Disorders",115
+3914,C0205641,"Adenocarcinoma, Basal Cell",Neoplasms,114
+3915,C0205642,"Adenocarcinoma, Oxyphilic",Neoplasms,114
+3916,C0205643,"Carcinoma, Cribriform",Neoplasms,114
+3917,C0205644,"Carcinoma, Granular Cell",Neoplasms,114
+3918,C0205645,"Adenocarcinoma, Tubular",Neoplasms,114
+421,C0007137,"Squamous cell carcinoma",Neoplasms,113
+551,C0009171,"Cocaine Abuse","Mental Disorders",112
+9115,C0600427,"Cocaine Dependence","Mental Disorders",112
+12,C0000822,"Abortion, Tubal","Female Urogenital Diseases and Pregnancy Complications",109
+7301,C0345967,"Malignant mesothelioma",Neoplasms,109
+98,C0002152,"Alloxan Diabetes","Nutritional and Metabolic Diseases",108
+712,C0011853,"Diabetes Mellitus, Experimental","Nutritional and Metabolic Diseases",108
+2652,C0038433,"Streptozotocin Diabetes","Nutritional and Metabolic Diseases",108
+1590,C0023467,"Leukemia, Myelocytic, Acute",Neoplasms,107
+1881,C0026998,"Acute Myeloid Leukemia, M1",Neoplasms,107
+16401,C1879321,"Acute Myeloid Leukemia (AML-M2)",Neoplasms,107
+1246,C0019207,"Hepatoma, Morris",Neoplasms,106
+1247,C0019208,"Hepatoma, Novikoff",Neoplasms,106
+3161,C0086404,"Experimental Hepatoma",Neoplasms,106
+10632,C0919267,"ovarian neoplasm",Neoplasms,103
+10863,C1140680,"Malignant neoplasm of ovary",Neoplasms,103
+24141,C4505456,"HIV Coinfection","Immune System Diseases",102
+639,C0010606,"Adenoid Cystic Carcinoma",Neoplasms,100
+1467,C0022333,"Jacksonian Seizure","Pathological Conditions, Signs and Symptoms",99
+3274,C0149958,"Complex partial seizures","Pathological Conditions, Signs and Symptoms",99
+4500,C0234533,"Generalized seizures","Pathological Conditions, Signs and Symptoms",99
+4501,C0234535,"Seizures, Clonic","Pathological Conditions, Signs and Symptoms",99
+5877,C0270824,"Visual seizure","Pathological Conditions, Signs and Symptoms",99
+5880,C0270846,"Epileptic drop attack","Pathological Conditions, Signs and Symptoms",99
+7932,C0422853,"Olfactory seizure","Pathological Conditions, Signs and Symptoms",99
+7934,C0422855,"Vertiginous seizure","Pathological Conditions, Signs and Symptoms",99
+8496,C0494475,"Tonic - clonic seizures","Pathological Conditions, Signs and Symptoms",99
+9666,C0751110,"Single Seizure","Pathological Conditions, Signs and Symptoms",99
+9676,C0751123,"Atonic Absence Seizures","Pathological Conditions, Signs and Symptoms",99
+19277,C3495874,"Nonepileptic Seizures","Pathological Conditions, Signs and Symptoms",99
+23964,C4317109,"Epileptic Seizures","Pathological Conditions, Signs and Symptoms",99
+24140,C4505436,"Generalized Absence Seizures","Pathological Conditions, Signs and Symptoms",99
+1170,C0018801,"Heart failure","Cardiovascular Diseases",98
+1171,C0018802,"Congestive heart failure","Cardiovascular Diseases",98
+1548,C0023212,"Left-Sided Heart Failure","Cardiovascular Diseases",98
+4558,C0235527,"Heart Failure, Right-Sided","Cardiovascular Diseases",98
+16461,C1959583,"Myocardial Failure","Cardiovascular Diseases",98
+500,C0008370,Cholestasis,"Digestive System Diseases",97
+1643,C0023890,"Liver Cirrhosis","Digestive System Diseases",97
+4797,C0239946,"Fibrosis, Liver","Digestive System Diseases",97
+2052,C0029408,"Degenerative polyarthritis","Musculoskeletal Diseases",88
+2117,C0030297,"Pancreatic Neoplasm",Neoplasms,88
+2410,C0035126,"Reperfusion Injury","Pathological Conditions, Signs and Symptoms",88
+3193,C0086743,"Osteoarthrosis Deformans","Musculoskeletal Diseases",88
+7369,C0346647,"Malignant neoplasm of pancreas",Neoplasms,88
+957,C0015695,"Fatty Liver","Digestive System Diseases",86
+1503,C0022660,"Kidney Failure, Acute","Female Urogenital Diseases and Pregnancy Complications",86
+1885,C0027051,"Myocardial Infarction","Cardiovascular Diseases",86
+6338,C0279626,"Squamous cell carcinoma of esophagus",Neoplasms,86
+12281,C1565662,"Acute Kidney Insufficiency","Female Urogenital Diseases and Pregnancy Complications",86
+16975,C2609414,"Acute kidney injury","Female Urogenital Diseases and Pregnancy Complications",86
+17430,C2711227,Steatohepatitis,"Digestive System Diseases",86
+105,C0002395,"Alzheimer's Disease","Nervous System Diseases",84
+671,C0011265,"Presenile dementia","Nervous System Diseases",84
+6157,C0276496,"Familial Alzheimer Disease (FAD)","Nervous System Diseases",84
+8495,C0494463,"Alzheimer Disease, Late Onset","Nervous System Diseases",84
+8774,C0546126,"Acute Confusional Senile Dementia","Nervous System Diseases",84
+9580,C0750900,"Alzheimer's Disease, Focal Onset","Nervous System Diseases",84
+9581,C0750901,"Alzheimer Disease, Early Onset","Nervous System Diseases",84
+241,C0004096,Asthma,"Respiratory Tract Diseases",78
+2360,C0034069,"Pulmonary Fibrosis","Respiratory Tract Diseases",78
+3137,C0085786,"Hamman-Rich syndrome","Respiratory Tract Diseases",78
+4638,C0236804,"Amphetamine Addiction","Mental Disorders",75
+4639,C0236807,"Amphetamine Abuse","Mental Disorders",75
+8784,C0546837,"Malignant neoplasm of esophagus",Neoplasms,72
+698,C0011616,"Contact Dermatitis","Skin and Connective Tissue Diseases",71
+6111,C0272945,"Brain Lacerations","Nervous System Diseases",69
+12090,C1510586,"Autism Spectrum Disorders","Mental Disorders",69
+1079,C0017638,Glioma,Neoplasms,68
+4993,C0259783,"mixed gliomas",Neoplasms,68
+8866,C0555198,"Malignant Glioma",Neoplasms,68
+2637,C0038220,"Status Epilepticus","Pathological Conditions, Signs and Symptoms",67
+3815,C0162820,"Dermatitis, Allergic Contact","Skin and Connective Tissue Diseases",67
+5876,C0270823,"Petit mal status","Pathological Conditions, Signs and Symptoms",67
+6515,C0311335,"Grand Mal Status Epilepticus","Pathological Conditions, Signs and Symptoms",67
+7637,C0393734,"Complex Partial Status Epilepticus","Pathological Conditions, Signs and Symptoms",67
+9850,C0751522,"Status Epilepticus, Subclinical","Pathological Conditions, Signs and Symptoms",67
+9851,C0751523,"Non-Convulsive Status Epilepticus","Pathological Conditions, Signs and Symptoms",67
+9852,C0751524,"Simple Partial Status Epilepticus","Pathological Conditions, Signs and Symptoms",67
+2152,C0030567,"Parkinson Disease","Nervous System Diseases",66
+610,C0010054,"Coronary Arteriosclerosis","Cardiovascular Diseases",65
+1078,C0017636,Glioblastoma,Neoplasms,65
+6735,C0334588,"Giant Cell Glioblastoma",Neoplasms,65
+12336,C1621958,"Glioblastoma Multiforme",Neoplasms,65
+16451,C1956346,"Coronary Artery Disease","Cardiovascular Diseases",65
+4729,C0238463,"Papillary thyroid carcinoma",Neoplasms,61
+6121,C0274861,"Arsenic Poisoning, Inorganic","Nervous System Diseases",61
+6122,C0274862,"Nervous System, Organic Arsenic Poisoning","Nervous System Diseases",61
+6522,C0311375,"Arsenic Poisoning","Nervous System Diseases",61
+9982,C0751851,"Arsenic Encephalopathy","Nervous System Diseases",61
+9983,C0751852,"Arsenic Induced Polyneuropathy","Nervous System Diseases",61
+19293,C3501843,"Non-medullary thyroid carcinoma",Neoplasms,61
+19294,C3501844,"Familial Nonmedullary Thyroid Cancer",Neoplasms,61
+459,C0007786,"Brain Ischemia","Nervous System Diseases",60
+10615,C0917798,"Cerebral Ischemia","Nervous System Diseases",60
+70,C0001787,"Osteoporosis, Age-Related","Nutritional and Metabolic Diseases",59
+561,C0009324,"Ulcerative Colitis","Digestive System Diseases",59
+879,C0014544,Epilepsy,"Nervous System Diseases",59
+2072,C0029456,Osteoporosis,"Nutritional and Metabolic Diseases",59
+2074,C0029459,"Osteoporosis, Senile","Nutritional and Metabolic Diseases",59
+3155,C0086237,"Epilepsy, Cryptogenic","Nervous System Diseases",59
+9667,C0751111,"Awakening Epilepsy","Nervous System Diseases",59
+9787,C0751406,"Post-Traumatic Osteoporosis","Nutritional and Metabolic Diseases",59
+2119,C0030305,Pancreatitis,"Digestive System Diseases",58
+1670,C0024141,"Lupus Erythematosus, Systemic","Skin and Connective Tissue Diseases",57
+2112,C0030246,"Pustulosis of Palms and Soles","Skin and Connective Tissue Diseases",57
+2339,C0033860,Psoriasis,"Skin and Connective Tissue Diseases",57
+4930,C0242380,"Libman-Sacks Disease","Skin and Connective Tissue Diseases",57
+407,C0007114,"Malignant neoplasm of skin",Neoplasms,56
+2413,C0035222,"Respiratory Distress Syndrome, Adult","Respiratory Tract Diseases",56
+8435,C0476089,"Endometrial Carcinoma",Neoplasms,56
+10027,C0751956,"Acute Cerebrovascular Accidents","Nervous System Diseases",55
+249,C0004153,Atherosclerosis,"Cardiovascular Diseases",54
+3491,C0153381,"Malignant neoplasm of mouth",Neoplasms,54
+2670,C0038587,"Substance Withdrawal Syndrome","Mental Disorders",53
+1437,C0021400,Influenza,"Respiratory Tract Diseases",52
+2249,C0032285,Pneumonia,"Respiratory Tract Diseases",52
+2251,C0032300,"Lobar Pneumonia","Respiratory Tract Diseases",52
+10608,C0887898,"Experimental Lung Inflammation","Respiratory Tract Diseases",52
+19863,C3714636,Pneumonitis,"Respiratory Tract Diseases",52
+1583,C0023452,"Childhood Acute Lymphoblastic Leukemia",Neoplasms,49
+1584,C0023453,"Leukemia, Lymphocytic, Acute, L2",Neoplasms,49
+16493,C1961102,"Precursor Cell Lymphoblastic Leukemia Lymphoma",Neoplasms,49
+15845,C1862939,"AMYOTROPHIC LATERAL SCLEROSIS 1","Nutritional and Metabolic Diseases",48
+15846,C1862941,"Amyotrophic Lateral Sclerosis, Sporadic","Nutritional and Metabolic Diseases",48
+12340,C1623038,Cirrhosis,"Pathological Conditions, Signs and Symptoms",47
+1433,C0021364,"Male infertility","Male Urogenital Diseases",46
+1504,C0022661,"Kidney Failure, Chronic","Female Urogenital Diseases and Pregnancy Complications",46
+18722,C3179349,"Gastrointestinal Stromal Sarcoma",Neoplasms,46
+4122,C0220636,"Malignant neoplasm of salivary gland",Neoplasms,45
+628,C0010346,"Crohn Disease","Digestive System Diseases",44
+3676,C0156147,"Crohn's disease of large bowel","Digestive System Diseases",44
+5516,C0267380,"Crohn's disease of the ileum","Digestive System Diseases",44
+9155,C0678202,"Regional enteritis","Digestive System Diseases",44
+10741,C0949272,IIeocolitis,"Digestive System Diseases",44
+301,C0005586,"Bipolar Disorder","Mental Disorders",43
+302,C0005587,"Depression, Bipolar","Mental Disorders",43
+713,C0011854,"Diabetes Mellitus, Insulin-Dependent","Nutritional and Metabolic Diseases",43
+1729,C0024713,"Manic Disorder","Mental Disorders",43
+1754,C0025149,Medulloblastoma,Neoplasms,43
+1851,C0026769,"Multiple Sclerosis","Immune System Diseases",43
+3938,C0205734,"Diabetes, Autoimmune","Nutritional and Metabolic Diseases",43
+3953,C0205833,Medullomyoblastoma,Neoplasms,43
+6232,C0278510,"Childhood Medulloblastoma",Neoplasms,43
+6299,C0278876,"Adult Medulloblastoma",Neoplasms,43
+6813,C0338831,Manic,"Mental Disorders",43
+7016,C0342302,"Brittle diabetes","Nutritional and Metabolic Diseases",43
+9735,C0751291,"Desmoplastic Medulloblastoma",Neoplasms,43
+9743,C0751324,"Multiple Sclerosis, Acute Fulminating","Immune System Diseases",43
+11155,C1275668,"Melanotic medulloblastoma",Neoplasms,43
+20321,C3837958,"Diabetes Mellitus, Ketosis-Prone","Nutritional and Metabolic Diseases",43
+7765,C0400966,"Non-alcoholic Fatty Liver Disease","Digestive System Diseases",42
+18736,C3241937,"Nonalcoholic Steatohepatitis","Digestive System Diseases",42
+539,C0008925,"Cleft Palate","Congenital, Hereditary, and Neonatal Diseases and Abnormalities",41
+3266,C0149925,"Small cell carcinoma of lung",Neoplasms,41
+13169,C1837218,"Cleft palate, isolated","Congenital, Hereditary, and Neonatal Diseases and Abnormalities",41
+222,C0003865,"Arthritis, Adjuvant-Induced","Musculoskeletal Diseases",40
+1770,C0025261,"Memory Disorders","Pathological Conditions, Signs and Symptoms",40
+2075,C0029463,Osteosarcoma,Neoplasms,40
+5090,C0263628,"Tumoral calcinosis","Nutritional and Metabolic Diseases",40
+9736,C0751292,"Age-Related Memory Disorders","Pathological Conditions, Signs and Symptoms",40
+9737,C0751293,"Memory Disorder, Semantic","Pathological Conditions, Signs and Symptoms",40
+9738,C0751294,"Memory Disorder, Spatial","Pathological Conditions, Signs and Symptoms",40
+10761,C0971858,"Arthritis, Collagen-Induced","Musculoskeletal Diseases",40
+10763,C0993582,"Arthritis, Experimental","Musculoskeletal Diseases",40
+689,C0011573,"Endogenous depression","Mental Disorders",39
+692,C0011581,"Depressive disorder","Mental Disorders",39
+719,C0011881,"Diabetic Nephropathy","Female Urogenital Diseases and Pregnancy Complications",39
+1086,C0017667,"Nodular glomerulosclerosis","Female Urogenital Diseases and Pregnancy Complications",39
+1760,C0025193,Melancholia,"Mental Disorders",39
+1798,C0025500,Mesothelioma,Neoplasms,39
+2821,C0041696,"Unipolar Depression","Mental Disorders",39
+3149,C0086133,"Depressive Syndrome","Mental Disorders",39
+6444,C0282126,"Depression, Neurotic","Mental Disorders",39
+7502,C0376280,"Anxiety States, Neurotic","Mental Disorders",39
+11182,C1279420,"Anxiety neurosis (finding)","Mental Disorders",39
+1601,C0023487,"Acute Promyelocytic Leukemia",Neoplasms,38
+9937,C0751733,"Degenerative Diseases, Spinal Cord","Nervous System Diseases",38
+12014,C1449563,"Cardiomyopathy, Familial Idiopathic","Cardiovascular Diseases",38
+1505,C0022665,"Kidney Neoplasm",Neoplasms,37
+1576,C0023434,"Chronic Lymphocytic Leukemia",Neoplasms,37
+9379,C0740457,"Malignant neoplasm of kidney",Neoplasms,37
+697,C0011615,"Dermatitis, Atopic","Congenital, Hereditary, and Neonatal Diseases and Abnormalities",36
+1575,C0023418,leukemia,Neoplasms,36
+3152,C0086196,"Eczema, Infantile","Congenital, Hereditary, and Neonatal Diseases and Abnormalities",36
+3919,C0205646,"Adenoma, Basal Cell",Neoplasms,36
+3920,C0205647,"Follicular adenoma",Neoplasms,36
+3921,C0205648,"Adenoma, Microcystic",Neoplasms,36
+3922,C0205649,"Adenoma, Monomorphic",Neoplasms,36
+3923,C0205650,"Papillary adenoma",Neoplasms,36
+3924,C0205651,"Adenoma, Trabecular",Neoplasms,36
+615,C0010093,"Corpus Luteum Cyst",Neoplasms,35
+2098,C0029927,"Ovarian Cysts",Neoplasms,35
+87,C0001956,"Alcohol Use Disorder","Mental Disorders",34
+90,C0001973,"Alcoholic Intoxication, Chronic","Mental Disorders",34
+1083,C0017661,"IGA Glomerulonephritis","Female Urogenital Diseases and Pregnancy Complications",34
+2437,C0035334,"Retinitis Pigmentosa","Congenital, Hereditary, and Neonatal Diseases and Abnormalities",34
+2735,C0040136,"Thyroid Neoplasm",Neoplasms,34
+2976,C0079744,"Diffuse Large B-Cell Lymphoma",Neoplasms,34
+3136,C0085762,"Alcohol abuse","Mental Disorders",34
+3202,C0087012,"Ataxia, Spinocerebellar","Congenital, Hereditary, and Neonatal Diseases and Abnormalities",34
+3304,C0151468,"Thyroid Gland Follicular Adenoma",Neoplasms,34
+8823,C0549473,"Thyroid carcinoma",Neoplasms,34
+10042,C0752120,"Spinocerebellar Ataxia Type 1","Congenital, Hereditary, and Neonatal Diseases and Abnormalities",34
+10043,C0752121,"Spinocerebellar Ataxia Type 2","Congenital, Hereditary, and Neonatal Diseases and Abnormalities",34
+10044,C0752122,"Spinocerebellar Ataxia Type 4","Congenital, Hereditary, and Neonatal Diseases and Abnormalities",34
+10045,C0752123,"Spinocerebellar Ataxia Type 5","Congenital, Hereditary, and Neonatal Diseases and Abnormalities",34
+10046,C0752124,"Spinocerebellar Ataxia Type 6 (disorder)","Congenital, Hereditary, and Neonatal Diseases and Abnormalities",34
+10047,C0752125,"Spinocerebellar Ataxia Type 7","Congenital, Hereditary, and Neonatal Diseases and Abnormalities",34
+422,C0007138,"Carcinoma, Transitional Cell",Neoplasms,33
+493,C0008312,"Primary biliary cirrhosis","Digestive System Diseases",33
+1645,C0023892,"Biliary cirrhosis","Digestive System Diseases",33
+1849,C0026764,"Multiple Myeloma",Neoplasms,33
+3533,C0153633,"Malignant neoplasm of brain",Neoplasms,33
+4670,C0238065,"Biliary Cirrhosis, Secondary","Digestive System Diseases",33
+4698,C0238281,"Middle Cerebral Artery Syndrome","Nervous System Diseases",33
+5067,C0263454,Chloracne,"Skin and Connective Tissue Diseases",33
+8508,C0496899,"Benign neoplasm of brain, unspecified",Neoplasms,33
+9366,C0740376,"Middle Cerebral Artery Thrombosis","Nervous System Diseases",33
+9372,C0740392,"Infarction, Middle Cerebral Artery","Nervous System Diseases",33
+9615,C0750974,"Brain Tumor, Primary",Neoplasms,33
+9616,C0750977,"Recurrent Brain Neoplasm",Neoplasms,33
+9617,C0750979,"Primary malignant neoplasm of brain",Neoplasms,33
+9977,C0751845,"Middle Cerebral Artery Embolus","Nervous System Diseases",33
+9978,C0751846,"Left Middle Cerebral Artery Infarction","Nervous System Diseases",33
+9979,C0751847,"Embolic Infarction, Middle Cerebral Artery","Nervous System Diseases",33
+9980,C0751848,"Thrombotic Infarction, Middle Cerebral Artery","Nervous System Diseases",33
+9981,C0751849,"Right Middle Cerebral Artery Infarction","Nervous System Diseases",33
+10694,C0948089,"Acute Coronary Syndrome","Cardiovascular Diseases",33
+1238,C0019163,"Hepatitis B","Digestive System Diseases",32
+1664,C0024117,"Chronic Obstructive Airway Disease","Respiratory Tract Diseases",32
+10917,C1168401,"Squamous cell carcinoma of the head and neck",Neoplasms,32
+12164,C1527303,"Chronic Airflow Obstruction","Respiratory Tract Diseases",32
+125,C0002871,Anemia,"Hemic and Lymphatic Diseases",31
+1604,C0023493,"Adult T-Cell Lymphoma/Leukemia",Neoplasms,31
+1082,C0017658,Glomerulonephritis,"Female Urogenital Diseases and Pregnancy Complications",30
+1644,C0023891,"Liver Cirrhosis, Alcoholic","Digestive System Diseases",30
+12409,C1704377,"Bright Disease","Female Urogenital Diseases and Pregnancy Complications",30
+251,C0004238,"Atrial Fibrillation","Pathological Conditions, Signs and Symptoms",29
+874,C0014518,"Toxic Epidermal Necrolysis","Skin and Connective Tissue Diseases",29
+1805,C0025958,Microcephaly,"Congenital, Hereditary, and Neonatal Diseases and Abnormalities",29
+1946,C0027708,Nephroblastoma,Neoplasms,29
+2642,C0038325,"Stevens-Johnson Syndrome","Skin and Connective Tissue Diseases",29
+4556,C0235480,"Paroxysmal atrial fibrillation","Pathological Conditions, Signs and Symptoms",29
+8743,C0543859,"Amyotrophic Lateral Sclerosis, Guam Form","Nutritional and Metabolic Diseases",29
